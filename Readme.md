@@ -14,7 +14,7 @@ The project is built with Gradle as the build automation tool, and it is structu
 ## Setup and Installation
 Clone the repository
 ``` bash
-git clone 
+git clone https://github.com/AritraC1/MultipleImageDownloader.git
 cd MultipleImageDownloader
 ```
 Build the project using Gradle to download the necessary dependencies
